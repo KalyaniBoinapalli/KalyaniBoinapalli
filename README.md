@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 ### Hi Developers 👋
+I'm Software Developer I have a wide range of skills that include C,Java and Python
 
 
 
